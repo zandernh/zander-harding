@@ -4,7 +4,7 @@ A multidisciplinary developer with a strong focus on Python, Django, and React, 
 
 My projects range from full-stack web apps to AI voice assistants, showcasing problem-solving, clean architecture, and production-ready development.
 
-I am actively seeking React, Django, Full-Stack (React + Django), or AI/Automation Developer roles as a Junior.
+I am actively seeking React, Django, or Full-Stack (React + Django) roles as a Junior.
 
 ---
 
@@ -16,6 +16,8 @@ I am actively seeking React, Django, Full-Stack (React + Django), or AI/Automati
 
 A minimalist but production-ready task management application designed for simplicity and efficiency. Includes cloud storage, relational databases, and a custom Django backend with user authentication.
 
+[🔗 Link to Project](https://github.com/zandernh/focushive)
+
 - Tech Stack: Django • PostgreSQL (AWS RDS) • AWS S3 • Bootstrap5 • HTML5/CSS3
 
 - Highlights: Cloud hosting, media storage, relational database design, CRUD logic.
@@ -25,6 +27,8 @@ A minimalist but production-ready task management application designed for simpl
 ![Netflix Clone Screenshot](netflix_clone_screenshot.JPG)
 
 A Netflix-style streaming platform built with Django, featuring user login, movie browsing, personalized lists, and dynamic content rendering.
+
+[🔗 Link to Project](https://github.com/zandernh/Netflix-Clone)
 
 - Tech Stack: Django • PostgreSQL • AWS S3 • TailwindCSS • JavaScript
 - 
@@ -36,6 +40,8 @@ A Netflix-style streaming platform built with Django, featuring user login, movi
 
 A clean, modern task manager app demonstrating how React connects to a Django REST backend secured by JWT authentication.
 
+[🔗 Link to Project](https://github.com/zandernh/task-manage
+
 - Tech Stack: Django • DRF • SQLite • React • Axios • JWT Auth
 
 - Highlights: Login system, protected routes, API integration, authentication.
@@ -45,6 +51,8 @@ A clean, modern task manager app demonstrating how React connects to a Django RE
 ![Movie Search Engine Screenshot](movie_search_engine_screenshot.JPG)
 
 A responsive movie-searching app built with React, powered by the TMDB API with routing, reusable components, and clean UI structure.
+
+[🔗 Link to Project](https://github.com/zandernh/react_movie_search_engine)
 
 - Tech Stack: React 19 • Vite • React Router • TMDB API • CSS3
 
@@ -56,6 +64,8 @@ A responsive movie-searching app built with React, powered by the TMDB API with 
 
 A sleek, gradient-styled calculator built using the useReducer pattern for state management.
 
+[🔗 Link to Project](https://github.com/zandernh/react_calculator)
+
 - Tech Stack: React 19 • Vite • CSS3 • useReducer
 - Highlights: Component architecture, input handling, reducer-based logic.
 
@@ -66,45 +76,66 @@ A sleek, gradient-styled calculator built using the useReducer pattern for state
 ### Frontend (React)
 
 - Movie Search Engine (React)
+
+[🔗 Link to Project](https://github.com/zandernh/react_movie_search_engine)
+
 Clean, API-driven search interface using React 19 + Vite.
 
 - Calculator App (React)
+
+[🔗 Link to Project](https://github.com/zandernh/react_calculator)
+
 Reducer-based calculator with modern UI.
 
 - To-Do List (React)
+
+[🔗 Link to Project](https://github.com/zandernh/react_to-do)
+
 Minimal task tracker with LocalStorage persistence.
 
 - Cafe Counter (HTML/CSS/JS)
+
+[🔗 Link to Project](https://github.com/zandernh/cafe-counter)
+
 Lightweight DOM-manipulation project deployed on Netlify.
 
 ### Full-Stack & Backend (Django)
 
 - FocusHive (Django, AWS, PostgreSQL)
+
+[🔗 Link to Project](https://github.com/zandernh/focushive)
+
 Task management app with cloud hosting.
 
 - Netflix Clone (Django, Tailwind, AWS S3)
+
+[🔗 Link to Project](https://github.com/zandernh/Netflix-Clone)
+
 Full streaming interface with auth and media browsing.
 
 - Task Manager — React + Django JWT
+
+[🔗 Link to Project](https://github.com/zandernh/task-manager)
+
 Full-stack JWT authentication demo.
 
 ### APIs
 
 - Django Blogpost REST API (DRF)
+
+[🔗 Link to Project](https://github.com/zandernh/python_django_rest_api_blogpost)
+
 A fully functional REST API with full CRUD support and clean endpoint structure.
 
 - Tech Stack: Django 5.2 • DRF • SQLite3
 
-### AI / Automation Projects
+- Django REST API - User Management
 
-- AI Voice Assistant for Doctor’s Office (Flask + LiveKit + OpenAI)
-Real-time voice assistant with streaming transcription, WebRTC audio, and intelligent assistant logic. Simulates real call-center workflows.
+[🔗 Link to Project](https://github.com/zandernh/python_django_rest_api)
 
-- LangChain Autonomous AI Agent (Python)
-An agent that performs multi-step reasoning, tool usage, and workflow automation using LangChain.
+A simple and clean Django REST API designed for storing, retrieving, updating, and deleting user information.
 
-- Browser-Based AI Web Scraper
-Lightweight scraper with AI-assisted extraction and browser automation logic.
+- Tech Stack: Django 5.2 • DRF • SQLite3
 
 ---
 
@@ -121,7 +152,6 @@ Lightweight scraper with AI-assisted extraction and browser automation logic.
 
 ## 📫 Contact
 
-GitHub: your-profile-link
 Email: zandernh@gmail.com
 
 Open to fully remote roles across the US, EU, and international teams.
