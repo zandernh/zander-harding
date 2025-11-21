@@ -40,7 +40,7 @@ A Netflix-style streaming platform built with Django, featuring user login, movi
 
 A clean, modern task manager app demonstrating how React connects to a Django REST backend secured by JWT authentication.
 
-[🔗 Link to Project](https://github.com/zandernh/task-manage
+[🔗 Link to Project](https://github.com/zandernh/task-manager)
 
 - Tech Stack: Django • DRF • SQLite • React • Axios • JWT Auth
 
@@ -75,25 +75,25 @@ A sleek, gradient-styled calculator built using the useReducer pattern for state
 
 ### Frontend (React)
 
-- Movie Search Engine (React)
+#### Movie Search Engine (React)
 
 [🔗 Link to Project](https://github.com/zandernh/react_movie_search_engine)
 
 Clean, API-driven search interface using React 19 + Vite.
 
-- Calculator App (React)
+#### Calculator App (React)
 
 [🔗 Link to Project](https://github.com/zandernh/react_calculator)
 
 Reducer-based calculator with modern UI.
 
-- To-Do List (React)
+#### To-Do List (React)
 
 [🔗 Link to Project](https://github.com/zandernh/react_to-do)
 
 Minimal task tracker with LocalStorage persistence.
 
-- Cafe Counter (HTML/CSS/JS)
+#### Cafe Counter (HTML/CSS/JS)
 
 [🔗 Link to Project](https://github.com/zandernh/cafe-counter)
 
@@ -101,19 +101,19 @@ Lightweight DOM-manipulation project deployed on Netlify.
 
 ### Full-Stack & Backend (Django)
 
-- FocusHive (Django, AWS, PostgreSQL)
+#### FocusHive (Django, AWS, PostgreSQL)
 
 [🔗 Link to Project](https://github.com/zandernh/focushive)
 
 Task management app with cloud hosting.
 
-- Netflix Clone (Django, Tailwind, AWS S3)
+#### Netflix Clone (Django, Tailwind, AWS S3)
 
 [🔗 Link to Project](https://github.com/zandernh/Netflix-Clone)
 
 Full streaming interface with auth and media browsing.
 
-- Task Manager — React + Django JWT
+#### Task Manager — React + Django JWT
 
 [🔗 Link to Project](https://github.com/zandernh/task-manager)
 
@@ -121,7 +121,7 @@ Full-stack JWT authentication demo.
 
 ### APIs
 
-- Django Blogpost REST API (DRF)
+#### Django Blogpost REST API (DRF)
 
 [🔗 Link to Project](https://github.com/zandernh/python_django_rest_api_blogpost)
 
@@ -129,7 +129,8 @@ A fully functional REST API with full CRUD support and clean endpoint structure.
 
 - Tech Stack: Django 5.2 • DRF • SQLite3
 
-- Django REST API - User Management
+
+#### Django REST API - User Management
 
 [🔗 Link to Project](https://github.com/zandernh/python_django_rest_api)
 
