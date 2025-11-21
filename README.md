@@ -11,7 +11,7 @@ I am actively seeking React, Django, or Full-Stack (React + Django) roles as a J
 
 ## 🚀 Featured Projects
 
-[🔗 ### 🐝 FocusHive — Task Management App (Django, AWS, PostgreSQL)](https://github.com/zandernh/focushive)
+### 🐝 FocusHive — Task Management App (Django, AWS, PostgreSQL [🔗)](https://github.com/zandernh/focushive)
 
 ![FocusHive Screenshot](focushive_screenshot.JPG)
 
