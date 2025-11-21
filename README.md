@@ -12,6 +12,8 @@ I am actively seeking React, Django, Full-Stack (React + Django), or AI/Automati
 
 ### 🐝 FocusHive — Task Management App (Django, AWS, PostgreSQL)
 
+![FocusHive Screenshot](focushive_screenshot.JPG)
+
 A minimalist but production-ready task management application designed for simplicity and efficiency. Includes cloud storage, relational databases, and a custom Django backend with user authentication.
 
 - Tech Stack: Django • PostgreSQL (AWS RDS) • AWS S3 • Bootstrap5 • HTML5/CSS3
@@ -19,6 +21,8 @@ A minimalist but production-ready task management application designed for simpl
 - Highlights: Cloud hosting, media storage, relational database design, CRUD logic.
 
 ### 🎬 Netflix Clone — Streaming Platform (Django, Tailwind, AWS)
+
+![Netflix Clone Screenshot](netflix_clone_screenshot.JPG)
 
 A Netflix-style streaming platform built with Django, featuring user login, movie browsing, personalized lists, and dynamic content rendering.
 
@@ -28,6 +32,8 @@ A Netflix-style streaming platform built with Django, featuring user login, movi
 
 ### 🔄 Task Manager w/ JWT — Full-Stack (React + Django REST)
 
+![React Task Manager](react_task_manager_screenshot.JPG)
+
 A clean, modern task manager app demonstrating how React connects to a Django REST backend secured by JWT authentication.
 
 - Tech Stack: Django • DRF • SQLite • React • Axios • JWT Auth
@@ -36,6 +42,8 @@ A clean, modern task manager app demonstrating how React connects to a Django RE
 
 ### 🎬 Movie Search Engine (React)
 
+![Movie Search Engine Screenshot](movie_search_engine_screenshot.JPG)
+
 A responsive movie-searching app built with React, powered by the TMDB API with routing, reusable components, and clean UI structure.
 
 - Tech Stack: React 19 • Vite • React Router • TMDB API • CSS3
@@ -43,6 +51,8 @@ A responsive movie-searching app built with React, powered by the TMDB API with 
 - Highlights: API integration, global state, dynamic routing, user-focused UI.
 
 ### 🧮 Calculator App (React)
+
+![Calculator Screenshot](react_calculator_screenshot.JPG)
 
 A sleek, gradient-styled calculator built using the useReducer pattern for state management.
 
