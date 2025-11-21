@@ -32,7 +32,7 @@ A Netflix-style streaming platform built with Django, featuring user login, movi
 
 ### 🔄 Task Manager w/ JWT — Full-Stack (React + Django REST)
 
-![React Task Manager](react_task_manager_screenshot.JPG)
+![React Task Manager](react_task_manager.screenshot.JPG)
 
 A clean, modern task manager app demonstrating how React connects to a Django REST backend secured by JWT authentication.
 
