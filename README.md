@@ -51,6 +51,22 @@ End-to-end customer analytics project focused on customer segmentation, retentio
 - Revenue heavily concentrated among loyal high-value customers
 - High Segment customers generated significantly higher revenue per customer
 
+### 📊 Marketing Campaign Performance Analysis (SQL, Excel, Power BI) [🔗 Link](https://github.com/zandernh/Marketing-Campaign-Performance-Analysis)
+
+![Marketing Campaign Performance Screenshot](marketing_campaign_performance_screenshot.png)
+
+End-to-end marketing analytics project focused on campaign effectiveness, customer segmentation, conversion analysis, and demographic trends using SQL, Excel, Power BI, and executive reporting.
+
+- Tech Stack: PostgreSQL • SQL • Excel • Power BI • Power Query • PDF Reporting
+
+- Highlights: SQL views with CTEs & CASE statements, customer segmentation modelling, Excel exploratory analysis, Power BI dashboard development, campaign performance analysis, conversion modelling, interactive dashboards & business reporting.
+
+#### Key Insights:
+- Previously contacted customers converted at more than twice the rate of new prospects
+- Single-contact campaigns achieved the highest conversion rate
+- Customers under 25 and over 55 converted most efficiently
+- Campaign performance showed clear seasonal trends, peaking in March and Q4
+
 ---
 
 ## 📚 Full Analytics Project Catalog
