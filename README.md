@@ -53,7 +53,7 @@ End-to-end customer analytics project focused on customer segmentation, retentio
 
 ### 📊 Marketing Campaign Performance Analysis (SQL, Excel, Power BI) [🔗 Link](https://github.com/zandernh/Marketing-Campaign-Performance-Analysis)
 
-![Marketing Campaign Performance Screenshot](marketing_campaign_performance_screenshot.png)
+![Marketing Campaign Performance Screenshot](Images/marketing_campaign_performance_screenshot.png)
 
 End-to-end marketing analytics project focused on campaign effectiveness, customer segmentation, conversion analysis, and demographic trends using SQL, Excel, Power BI, and executive reporting.
 
@@ -78,6 +78,10 @@ End-to-end revenue analytics project focused on geographic revenue concentration
 [🔗 Customer Value Analysis](https://github.com/zandernh/Customer-Value-Analysis)
 
 Customer analytics project focused on customer segmentation, retention analysis, purchasing behavior, and revenue concentration using SQL, Excel, Power BI, and business reporting.
+
+[🔗 Marketing Campaign Performance Analysis](https://github.com/zandernh/Marketing-Campaign-Performance-Analysis)
+
+End-to-end marketing analytics project focused on campaign effectiveness, customer segmentation, conversion trends, and demographic analysis using SQL, Excel, Power BI, and executive reporting.
 
 ---
 
